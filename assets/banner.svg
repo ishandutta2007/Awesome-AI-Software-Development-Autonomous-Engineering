@@ -41,7 +41,8 @@
   </defs>
 
   <style>
-    /* Continuous background pulse & flow */
+    <![CDATA[
+    /* Continuous background pulse and flow */
     @keyframes pulseGlow {
       0%, 100% { opacity: 0.35; transform: scale(1); }
       50% { opacity: 0.65; transform: scale(1.08); }
@@ -73,6 +74,7 @@
       transform-origin: 1040px 100px;
       animation: radarSweep 10s linear infinite;
     }
+    ]]>
   </style>
 
   <!-- Deep Backdrop -->
