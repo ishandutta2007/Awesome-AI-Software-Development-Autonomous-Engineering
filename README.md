@@ -69,7 +69,7 @@ The sector currently exhibits a **barbell dynamic**: heavily concentrated at the
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count in descending order. Stars_Badges dynamically link to each repository's stargazers.*
+*Sorted by GitHub_Stars_Count in descending order. Stars_Badges dynamically link to each repository's stargazers.*
 
 1. **[Superpowers (`obra/superpowers`)](https://github.com/obra/superpowers)** [![Stars](https://img.shields.io/github/stars/obra/superpowers?style=social&color=white)](https://github.com/obra/superpowers/stargazers)  
    Core engineering skill trees and composable development workflows providing autonomous coding agents with standardized Plan -> Work -> Review -> Compound pipelines and test-driven development (TDD) harness loops.
