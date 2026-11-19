@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering?style=flat-square&color=rose" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Software-Development-Autonomous-Engineering/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -69,7 +69,7 @@ The sector currently exhibits a **barbell dynamic**: heavily concentrated at the
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Star count in descending order. Star badges dynamically link to each repository's stargazers.*
+*Sorted by GitHub Stars_Count in descending order. Stars_Badges dynamically link to each repository's stargazers.*
 
 1. **[Superpowers (`obra/superpowers`)](https://github.com/obra/superpowers)** [![Stars](https://img.shields.io/github/stars/obra/superpowers?style=social&color=white)](https://github.com/obra/superpowers/stargazers)  
    Core engineering skill trees and composable development workflows providing autonomous coding agents with standardized Plan -> Work -> Review -> Compound pipelines and test-driven development (TDD) harness loops.
