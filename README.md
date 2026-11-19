@@ -30,77 +30,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global market for AI software engineering and autonomous coding agents is expanding at an accelerated trajectory, rapidly growing from a ~$1 billion direct tooling market toward an estimated $15+ billion by 2030 as enterprises transition from passive code completion to multi-step autonomous execution. The sector currently exhibits a barbell dynamic: heavily concentrated at the top tier among hyper-capitalized platform providers and foundation agent labs (e.g., Microsoft/GitHub, Cognition, Poolside, Replit), while remaining intensely fragmented across mid-market specialized orchestration engines, domain-specific coding workflows, and open-source ecosystems.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Devin (Cognition AI)](https://devin.ai)**  
-
-  Autonomous AI software engineer equipped with its own cloud shell, code editor, and browser to plan, build, debug, and deploy full-stack engineering tasks from Slack, Jira, or GitHub issues.
-
-
-
-- **[GitHub Copilot & Copilot Workspace](https://github.com)**  
-
-  Native GitHub autonomous coding agent and issue-to-PR planning environment capable of drafting specifications, editing multi-file repositories, running CI checks, and opening pull requests.
-
-
-
-- **[Factory AI (Droids)](https://factory.ai)**  
-
-  Enterprise autonomous software development platform deploying specialized AI "Droids" across coding, code review, testing, incident response, and documentation pipelines.
-
-
-
-- **[Cosine (Genie)](https://cosine.sh)**  
-
-  Autonomous AI software engineering platform trained on human developer reasoning trajectories to solve complex bug fixes, feature builds, and large-scale refactors.
-
-
-
-- **[Augment Code](https://augmentcode.com)**  
-
-  Enterprise AI software engineering platform featuring a real-time semantic context engine and autonomous cloud agents engineered for massive multi-million-line monorepos.
-
-
-
-- **[Magic.dev](https://magic.dev)**  
-
-  Frontier AI software engineering research and cloud platform building ultra-long-context (`100M+` token LTM) models for repository-scale autonomous code synthesis and reasoning.
-
-
-
-- **[Replit Agent](https://replit.com)**  
-
-  Cloud-based collaborative IDE and autonomous software creation agent capable of architecting, coding, debugging, configuring databases, and deploying full-stack web apps from prompts.
-
-
-
-- **[Poolside](https://poolside.ai)**  
-
-  Enterprise AI foundation-model and autonomous software development platform trained with reinforcement learning from code execution feedback (`RLCEF`) for private VPC deployments.
-
-
-
-- **[Sweep AI / Tembo](https://tembo.io)**  
-
-  Cloud autonomous engineering background agents that continuously monitor repositories, Sentry errors, and issue trackers to proactively generate tested bug-fix pull requests.
-
-
-
-- **[OpenHands Cloud (All Hands AI)](https://all-hands.dev)**  
-
-  Managed cloud hosting for the open-source OpenHands autonomous software-engineering platform providing instant sandboxed workspaces and GitHub/GitLab issue automation.
+| Platform | Valuation / Company Size | Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Copilot & Copilot Workspace](https://github.com)** | Parent: Microsoft ($3.1T+ Market Cap) / $15B+ ARR (GitHub/Cloud Dev) | Pro starts at $10/user/month ($100/yr); Copilot Business at $19/user/month; Copilot Enterprise at $39/user/month | **Free forever plan**: Capped at 2,000 code completions per month and 50 chat messages/agent turns per month. Unlimited code completions require paid tier. | Native GitHub autonomous coding agent and issue-to-PR planning environment capable of drafting specifications, editing multi-file repositories, running CI checks, and opening pull requests. |
+| **[Devin (Cognition AI)](https://devin.ai)** | $48B Valuation ($1B ARR run rate) | Pro tier starts at $20/month; Max tier at $200/month; Teams at $80/month base + compute units | **Free forever plan**: Light tier with basic code completions and inline edits only; autonomous cloud agents require paid tiers or custom enterprise pilots (no free autonomous agent runs). | Autonomous AI software engineer equipped with its own cloud shell, code editor, and browser to plan, build, debug, and deploy full-stack engineering tasks from Slack, Jira, or GitHub issues. |
+| **[Poolside](https://poolside.ai)** | $12B–$13B Valuation ($50M+ ARR) | Enterprise private VPC licenses starting at custom quote (disclosed enterprise licensing tranches up to $6B) | **No free tier forever**: Evaluation strictly via enterprise sales-assisted POC demo environments; smaller Laguna foundational models released as open-weights for local testing. | Enterprise AI foundation-model and autonomous software development platform trained with reinforcement learning from code execution feedback (`RLCEF`) for private VPC deployments. |
+| **[Replit Agent](https://replit.com)** | $9B Valuation ($400M+ ARR) | Core tier starts at $20/month ($18/month billed annually); Pro tier at $100/month ($90/mo annual) | **Free forever plan (Starter)**: 0.5 vCPU, 512MB RAM, 1GB storage, 1 active published app (sleeps after 5 mins inactivity), and tight daily AI agent message caps (resets daily). | Cloud-based collaborative IDE and autonomous software creation agent capable of architecting, coding, debugging, configuring databases, and deploying full-stack web apps from prompts. |
+| **[Factory AI (Droids)](https://factory.ai)** | $5B Valuation ($400M+ funding) | Pro starts at $20/month; Plus at $100/month; Max at $200/month; Teams at $60/month base + $40/seat/month | **Free forever plan**: $0 forever for Bring Your Own Inference (BYOI) connecting personal LLM API keys; Factory managed inference requires Pro tier ($20/mo) or prepaid credit pack ($10 min). | Enterprise autonomous software development platform deploying specialized AI "Droids" across coding, code review, testing, incident response, and documentation pipelines. |
+| **[Magic.dev](https://magic.dev)** | $1.5B Valuation ($460M+ funding) | Developer API and enterprise tiers starting at custom quote | **Free trial**: Pre-release developer API sandbox access upon approval/onboarding waitlist; no permanent unmetered free tier. | Frontier AI software engineering research and cloud platform building ultra-long-context (`100M+` token LTM) models for repository-scale autonomous code synthesis and reasoning. |
+| **[Augment Code](https://augmentcode.com)** | $977M Valuation ($20M ARR) | Standard / Indie starts at $20/month; Team & Business tiers start at $60–$100/month per seat | **Free trial**: 14-day free trial with introductory starting usage credit pool (requires valid payment registration); no permanent free tier. | Enterprise AI software engineering platform featuring a real-time semantic context engine and autonomous cloud agents engineered for massive multi-million-line monorepos. |
+| **[Sweep AI / Tembo](https://tembo.io)** | Sweep AI: $25M Valuation; Tembo: Seed / Early-stage | Sweep starts at $10/month (Basic) & $20/month (Pro); Tembo Pro starts at $60/month, Max at $200/month | **Free tier / Free trial**: Sweep provides a free tier with 1,000 autocompletes and $5 introductory API credits; Tembo offers a free trial with sandbox access (up to XL) and usage allowance up to 10 users. | Cloud autonomous engineering background agents that continuously monitor repositories, Sentry errors, and issue trackers to proactively generate tested bug-fix pull requests. |
+| **[Cosine (Genie)](https://cosine.sh)** | $8M+ Funding raised / Early Venture | Starter starts at $19/month (4M task credits); Team at $199/month (47M credits); Enterprise at $999/month | **No free tier forever**: Evaluation requires subscribing to the entry Starter tier ($19/mo) or scheduling a tailored enterprise compliance pilot. | Autonomous AI software engineering platform trained on human developer reasoning trajectories to solve complex bug fixes, feature builds, and large-scale refactors. |
+| **[OpenHands Cloud (All Hands AI)](https://all-hands.dev)** | $5M Seed Funding ($25M–$30M est. valuation) | Commercial Teams starts at $500/month (includes 10 users, $50/user thereafter); Enterprise custom quote | **Free forever (Open Source MIT)**: 100% free locally or on self-hosted VMs with Bring Your Own Key (BYOK); Commercial cloud and team platform provides a **30-day free trial**. | Managed cloud hosting for the open-source OpenHands autonomous software-engineering platform providing instant sandboxed workspaces and GitHub/GitLab issue automation. |
 
 
 
